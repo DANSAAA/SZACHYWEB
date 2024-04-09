@@ -1,0 +1,12 @@
+#app {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#chessboard {
+    margin: 20px auto;
+    width: 400px;
+    height: 400px;
+    background-color: #f0d9b5;
+    border: 2px solid #b58863;
+}
